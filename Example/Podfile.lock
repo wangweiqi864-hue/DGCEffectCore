@@ -1,0 +1,16 @@
+PODS:
+  - DGCEffectCore (0.1.0)
+
+DEPENDENCIES:
+  - DGCEffectCore (from `../`)
+
+EXTERNAL SOURCES:
+  DGCEffectCore:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DGCEffectCore: 56d8b1c85d9b0227f1849ca12d93baacd033ea7e
+
+PODFILE CHECKSUM: a3547006fa37142b81c36abd856501e6cee7f129
+
+COCOAPODS: 1.15.2

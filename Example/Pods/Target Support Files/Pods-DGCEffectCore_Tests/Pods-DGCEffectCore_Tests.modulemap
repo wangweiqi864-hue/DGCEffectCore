@@ -1,0 +1,6 @@
+framework module Pods_DGCEffectCore_Tests {
+  umbrella header "Pods-DGCEffectCore_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

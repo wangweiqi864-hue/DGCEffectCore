@@ -1,0 +1,22 @@
+{
+  "name": "DGCEffectCore",
+  "version": "0.1.0",
+  "summary": "A short description of DGCEffectCore.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/admin/DGCEffectCore",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "admin": "huan.xin@renrengame.com"
+  },
+  "source": {
+    "git": "https://github.com/admin/DGCEffectCore.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "DGCEffectCore/Classes/**/*"
+}
